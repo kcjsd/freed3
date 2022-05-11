@@ -68,6 +68,7 @@ ___
 ## 1. 开源阅读📖 [[TG官方群](https://t.me/yueduguanfang) / [官网](https://www.legado.top/) / [博客](https://www.legado.top/blog)]
 * 开源阅读📖｜APP
   + https://github.com/gedoor/legado/releases/
+  + [网页版/苹果版【阅读】使用教程](https://mp.weixin.qq.com/s/KPpnPxogVZgUqhOXa4o7kw)
   + [聊点深的](https://mp.weixin.qq.com/s/Hluv7IHe3TO6ex8pcc-e8w)
   + [说一下这个功能](https://mp.weixin.qq.com/s/D4rj5N3drFVyG2fYf0hMlw)
 * 开源阅读📖｜书源合集更新【2022.05月】
