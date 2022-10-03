@@ -1,4 +1,96 @@
-{"data":[
+
+
+{
+  "data": [
+
+
+{"id":1,"name":"parwix","ad":"no","url":"https://jx.bozrc.com:4433/player/?url="},
+
+{"id":1,"name":"ckmov","ad":"no","url":"https://www.ckmov.vip/api.php?url="},
+{"id":1,"name":"OK","ad":"no","url":"https://okjx.cc/?url="},
+
+{"id":1,"name":"CK","ad":"no","url":"https://www.ckplayer.vip/jiexi/?url="},
+{"id":1,"name":"17云备用","ad":"no","url":"https://www.1717yun.com/beiyong/?url="},
+
+{"id":1,"name":"OK解析","ad":"no","url":"https://api.okjx.cc:3389/jx.php?url="},
+{"id":1,"name":"17云","ad":"no","url":"http://17kyun.com/api.php?url="},
+
+
+{"id":1,"name":"人人迷","ad":"no","url":"https://jx.renrenmi.cc/?url="},
+
+{"id":1,"name":"虾米","ad":"no","url":"https://jx.xmflv.com/?url="},
+
+
+{"id":1,"name":"M3U8","ad":"no","url":"https://jx.m3u8.tv/jiexi/?url="},
+{"id":1,"name":"8090","ad":"no","url":"https://www.8090g.cn/jiexi/?url="},
+{"id":1,"name":"盘古解析","ad":"no","url":"https://www.pangujiexi.com/pangu/?url="},
+{"id":1,"name":"ckmov","ad":"no","url":"https://www.ckmov.vip/api.php?url="},
+{"id":1,"name":"诺讯解析","ad":"no","url":"https://www.nxflv.com/?url="},
+{"id":1,"name":"cd解析","ad":"no","url":"http://vip.26db.cn/b/?url="},
+{"id":1,"name":"cd解析2","ad":"no","url":"http://vip.26db.cn/g/?url="},
+{"id":1,"name":"cd解析3","ad":"no","url":"http://vip.26db.cn/a/?url="},
+{"id":1,"name":"醉仙","ad":"no","url":"https://json.zui.cm/?url="},
+{"id":1,"name":"久看播","ad":"no","url":"https://9kjx.com/?url="},
+{"id":1,"name":"云解析","ad":"no","url":"https://jx.iztyy.com/svip/?url="},
+{"id":1,"name":"52解析","ad":"no","url":"https://52.jx.cn/jx.html?url="},
+
+{"id":1,"name":"无名","ad":"no","url":"http://www.82190555.com/video.php?url="},
+
+
+{"id":1,"name":"8090解析2","ad":"no","url":"https://www.8090g.cn/ceshi/?url="},
+
+
+
+{"id":1,"name":"智能解析","ad":"no","url":"https://1717.ntryjd.net/1717yun/?url="},
+
+
+
+
+{"id":1,"name":"接口1","ad":"no","url":"http://jx.parwix.com:4433/player/?url="},
+{"id":1,"name":"接口2","ad":"no","url":"http://www.xierizhi.cn/vip.html?i="},
+{"id":1,"name":"接口3","ad":"no","url":"http://jx.zui.cm/?url="},
+{"id":1,"name":"接口","ad":"no","url":"http://jx.aidouer.net/?url="},
+{"id":1,"name":"接口5","ad":"no","url":"http://jsap.attakids.com/?url="},
+{"id":1,"name":"接口6","ad":"no","url":"http://www.urlkj.com/?url="},
+{"id":1,"name":"接口7","ad":"no","url":"http://okjx.cc/?url="},
+{"id":1,"name":"接口8","ad":"no","url":"http://jx.m3u8.tv/jiexi/?url="},
+{"id":1,"name":"json2","ad":"no","url":"http://json.jszhongyong.cn/2.php/?url="},
+{"id":1,"name":"json1","ad":"no","url":"http://api.vip123kan.vip/?url="},
+{"id":1,"name":"json3","ad":"no","url":"http://apis.jxcxin.cn/api/jx?url="},
+{"id":1,"name":"json4","ad":"no","url":"http://vvip.funsline.cn/api/?key=dQm8zCPNw12H3nZBdv&url="},
+{"id":1,"name":"json5","ad":"no","url":"http://47.100.138.210:91/home/api?type=ys&uid=7593435&key=ehortuyAHMNQTWX457&url="},
+{"id":1,"name":"json6","ad":"no","url":"http://analysis.yikan.one/analysis/json/?uid=8&my=fjkmoqFJLORTVZ1359&url="},
+{"id":1,"name":"json7","ad":"no","url":"http://json.iopenyun.com:33/cms_m3u8_api.php?url="},
+{"id":1,"name":"json8","ad":"no","url":"http://jxgg.work/json.php?url="},
+
+
+
+
+
+
+{"id":1,"name":"自定义1","ad":"no","url":"https://api.leduotv.com/wp-api/ifr.php?vid="},
+{"id":1,"name":"自定义2","ad":"no","url":"https://sb.5gseo.net/?url="},
+    {
+      "id": 1,
+      "name": "自定义1",
+      "ad": "no",
+      "url": "https://jx.xmflv.com/?url="
+    },
+  {
+      "id": 1,
+      "name": "自定义2",
+      "ad": "no",
+      "url": "https://jx.parwix.com:4433/player/?url="
+    },
+  {
+      "id": 1,
+      "name": "自定义3",
+      "ad": "no",
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+  
+
+{"id":1,"name":"旧梦影视","ad":"no","url":"https://jmwl.qd234.cn/v/?v="},
 {"id":1,"name":"parwix","ad":"no","url":"https://jx.bozrc.com:4433/player/?url="},
 {"id":1,"name":"parwix2","ad":"no","url":"https://jx.bozrc.com:4433/player/?url="},
 {"id":1,"name":"晓成云","ad":"no","url":"https://vip.cygc.xyz/?url="},
@@ -37,3 +129,9 @@
 {"id":1,"name":"225188","ad":"no","url":"https://wds.ecsxs.com/225188.html?url="}
 ]
 }
+
+
+
+
+
+
