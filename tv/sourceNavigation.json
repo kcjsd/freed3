@@ -1,9 +1,64 @@
 {
   "data": [
-    {
+   
+
+{
+      "name": "电视直播2",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "webUrl": "https://cdn.jsdelivr.net/gh/kcjsd/freed3@master/tv/dianshi.m3u",
+      "type": "m3u",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+
+  {
+      "name": "轮播",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/08/30/24ee516b-b5a2-415d-ba65-ea35b613cbd2?x-oss-process=image/resize,w_200/format,webp",
+      "webUrl": "https://cdn.jsdelivr.net/gh/kcjsd/freed3@master/tv/yule.m3u",
+      "type": "m3u",
+      "subTitle": "",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ {
       "name": "douyu",
-      "pic": "https://rpic.douyucdn.cn/asrpic/220428/7298973_0050.png/dy2",
-      "webUrl": "https://freed.yuanhsing.cf/tv/douyu.json",
+      "pic": "http://rpic.douyucdn.cn/asrpic/220428/7298973_0050.png/dy2",
+      "webUrl": "https://cdn.jsdelivr.net/gh/kcjsd/freed3@master/tv/douyu.json",
       "type": "gitJson",
       "subTitle": "",
       "click": true,
@@ -19,7 +74,7 @@
     {
       "name": "Bilibili",
       "pic": "http://i0.hdslb.com/bfs/live/new_room_cover/5df1e7f98bd2803a20dc0b7b5c5724d363441a6d.jpg",
-      "webUrl": "https://freed.yuanhsing.cf/tv/Bilibili.json",
+      "webUrl": "https://cdn.jsdelivr.net/gh/kcjsd/freed3@master/tv/Bilibili.json",
       "type": "gitJson",
       "subTitle": "",
       "click": true,
@@ -35,7 +90,7 @@
     {
       "name": "Huya",
       "pic": "https://huyaimg.msstatic.com/avatar/1029/18/5d04dbcf6ab709f749023603de2b86_180_135.jpg",
-      "webUrl": "https://freed.yuanhsing.cf/tv/huya.json",
+      "webUrl": "https://cdn.jsdelivr.net/gh/kcjsd/freed3@master/tv/huya.json",
       "type": "gitJson",
       "subTitle": "",
       "click": true,
