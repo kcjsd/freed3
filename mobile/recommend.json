@@ -10,21 +10,21 @@
           "type": "app://playDetail"
         },
         {
-          "name": "wuye影院",
+          "name": "午夜影院",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
           "url": "https://pull.kktv8.com/livekktv/99592190.flv",
           "type": "app://playDetail"
         },
         {
-          "name": "林正英",
+          "name": "周星驰",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://txtest-xp2p.p2p.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.xs",
+          "url": "http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112/zmid",
           "type": "app://playDetail"
         },
         {
           "name": "周润发",
-          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://txtest-xp2p.p2p.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.xs",
+          "pic": "https://img9.doubanio.com/view/celebrity/raw/public/p35678.jpg",
+          "url": "http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984/zmid",
           "type": "app://playDetail"
         },
         {
@@ -34,45 +34,45 @@
           "type": "app://playDetail"
         },
         {
-          "name": "甄子丹",
+          "name": "张国荣",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://txtest-xp2p.p2p.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.xs",
+          "url": "http://112.74.200.9:88/tv000000/m3u8.php?/migu/707689526/zmid",
           "type": "app://playDetail"
         },
         {
-          "name": "李连杰",
+          "name": "古天乐",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://txtest-xp2p.p2p.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.xs",
+          "url": "http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198610/zmid",
           "type": "app://playDetail"
         },
         {
           "name": "刘德华",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://txtest-xp2p.p2p.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.xs",
+          "url": "http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648/zmid",
           "type": "app://playDetail"
         },
         {
-          "name": "洪金宝",
+          "name": "刘亦菲",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://txtest-xp2p.p2p.huya.com/src/73821423-73821423-317060597529182208-2710090468-10057-A-0-1.xs",
+          "url": "http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528386/zmid",
           "type": "app://playDetail"
         },
         {
-          "name": "香港女神系列",
+          "name": "经典影院",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://txtest-xp2p.p2p.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.xs",
+          "url": "http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198751/zmid",
           "type": "app://playDetail"
         },
         {
-          "name": "王晶导演",
+          "name": "新片放映厅",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://txtest-xp2p.p2p.huya.com/src/1524434111-1524434111-6547394651651833856-3048991678-10057-A-0-1.xs",
+          "url": "http://112.74.200.9:88/tv000000/m3u8.php?/migu/619495952/zmid",
           "type": "app://playDetail"
         },
         {
-          "name": "金庸武侠系列",
+          "name": "高分影院",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs",
+          "url": "http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198191/zmid",
           "type": "app://playDetail"
         },
         {
@@ -82,15 +82,63 @@
           "type": "app://playDetail"
         },
         {
-          "name": "吴孟达",
+          "name": "欢笑剧场",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://txtest-xp2p.p2p.huya.com/src/1388457235-1388457235-5963378416219586560-2777037926-10057-A-0-1.xs",
+          "url": "http://112.74.200.9:88/tv000000/m3u8.php?/migu/623674859/zmid",
+          "type": "app://playDetail"
+        },
+         {
+          "name": "暑期剧场",
+          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
+          "url": "http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198692/zmid",
+          "type": "app://playDetail"
+        },
+         {
+          "name": "黄金剧场",
+          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
+          "url": "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625155140/zmid",
+          "type": "app://playDetail"
+        },
+         {
+          "name": "军旅剧场",
+          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
+          "url": "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625643517/zmid",
+          "type": "app://playDetail"
+        },
+         {
+          "name": "少林剧场",
+          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
+          "url": "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625526423/zmid",
+          "type": "app://playDetail"
+        },
+         {
+          "name": "高清大片",
+          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
+          "url": "http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943678/zmid",
+          "type": "app://playDetail"
+        },
+         {
+          "name": "热剧联播",
+          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
+          "url": "http://112.74.200.9:88/tv000000/m3u8.php?/migu/629943613/zmid",
+          "type": "app://playDetail"
+        },
+         {
+          "name": "失眠剧场",
+          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
+          "url": "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625759558/zmid",
+          "type": "app://playDetail"
+        },
+         {
+          "name": "经典贺岁",
+          "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
+          "url": "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625774662/zmid",
           "type": "app://playDetail"
         },
         {
-          "name": "沈腾",
+          "name": "云上影院",
           "pic": "https://img2.doubanio.com/view/celebrity/raw/public/p1362491610.81.jpg",
-          "url": "http://txtest-xp2p.p2p.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.xs",
+          "url": "http://112.74.200.9:88/tv000000/m3u8.php?/migu/625703337/zmid",
           "type": "app://playDetail"
         }
       ]
